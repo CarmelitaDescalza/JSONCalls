@@ -1,0 +1,44 @@
+{
+  "animales": [
+    {
+      "id": 1,
+      "name": "Perro"
+    },
+    {
+      "id": 2,
+      "name": "Gato"
+    },
+    {
+      "id": 3,
+      "name": "Pez"
+    },
+    {
+      "id": 4,
+      "name": "Delfin"
+    },
+    {
+      "id": 5,
+      "name": "Ballena"
+    },
+    {
+      "id": 6,
+      "name": "Rana"
+    },
+    {
+      "id": 7,
+      "name": "Lagartija"
+    },
+    {
+      "id": 8,
+      "name": "Tortuga"
+    },
+    {
+      "id": 9,
+      "name": "Zorro"
+    },
+    {
+      "id": 10,
+      "name": "Caballo"
+    }
+  ]
+}
